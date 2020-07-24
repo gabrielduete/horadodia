@@ -25,12 +25,11 @@ footer{
     font-style: italic;
     font-size: 20px;
     text-align: center;
-    margin-top: 400px;
+    margin-top: 50px;
     color: rgba(0, 255, 0, 0.979);
     text-shadow: 5px 5px 12px rgb(13, 133, 23);
     min-width: 100%;
     min-height: 5%;
-    position: absolute;
     bottom: 0;
 }
 
@@ -48,12 +47,26 @@ a{
 }
 
 #fala{ 
-    
+    background-attachment: fixed;
     background: rgba(51, 45, 45, 0.726);
     border-radius: 10px;
     padding: 15px;
-    width: 550px;
+    width: 250px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.719);
     color: rgb(255, 255, 255);
+}
+
+@media (min-width: 500px){
+    #fala{ 
+        background-attachment: fixed;
+        background: rgba(51, 45, 45, 0.726);
+        border-radius: 10px;
+        padding: 15px;
+        width: 500px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.719);
+        color: rgb(255, 255, 255);
+    }    
+
 }
