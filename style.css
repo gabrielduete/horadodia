@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('noite.png');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: monospace;
+}
+
+h1{
+    
+    top: -20px;
+    font-size: 60px;
+    color: rgba(0, 255, 0, 0.979);
+    text-shadow: 5px 5px 12px rgb(13, 133, 23);    
+    text-align: center;
+    margin-bottom: 35px;
+    
+}
+
+footer{
+
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 400px;
+    color: rgba(0, 255, 0, 0.979);
+    text-shadow: 5px 5px 12px rgb(13, 133, 23);
+    min-width: 100%;
+    min-height: 5%;
+    position: absolute;
+    bottom: 0;
+}
+
+div{
+
+    text-align: center;
+    font-size: 70px;
+    color: rgba(0, 255, 0, 0.979);
+    text-shadow: 5px 5px 12px rgb(13, 133, 23);
+    
+}
+
+a{
+    color: white;
+}
+
+#fala{ 
+    
+    background: rgba(51, 45, 45, 0.726);
+    border-radius: 10px;
+    padding: 15px;
+    width: 550px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.719);
+    color: rgb(255, 255, 255);
+}
