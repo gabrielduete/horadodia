@@ -1,6 +1,4 @@
 function carregar() {
-    // var rodape = document.querySelector('footer#rodape')
-    // var cabec = document.querySelector('header#cabec') 
     var msg = document.querySelector('div#msg')
     var data = new Date()
     var data1 = new Date()
