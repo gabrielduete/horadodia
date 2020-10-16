@@ -1,5 +1,18 @@
-Um site simples que mostra a hora atual, e muda a imagem de fundo de acordo com a mesma.
+<h1 align='center'>
+    Hora do dia
+</h1>
 
-O Site é responsivo para a maioria dos dispositivos mobile e desktop.
+# 📝 Sobre
 
-Resoluções maiores que 1570x656 pode resultar em um pequeno desconforto por causa do tamanho das letras.
+Esse projeto foi desenvolvido no intuito de explorar minhas habilidades em JavaScript, CSS3 e HTML5. Esse site mostra a hora atual, e de acordo com cada horario, a imagem de fundo muda.
+
+# 💻 Tecnologias Usadas
+
+- [CSS3]()
+- [HTML5]()
+- [JavaScript]()
+- [Media Queres]()
+
+# ▶ Como acessar
+
+Acesse esse link : 
